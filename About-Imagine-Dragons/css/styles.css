@@ -1,0 +1,103 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd;
+    background-image: url(/About-Imagine-Dragons/img/imagine-dragons-album.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.header{
+    text-align: center;
+}
+
+.main-title{
+    font-size: 70px;
+}
+
+.main-paragraph{
+    font-style: italic;
+}
+
+.featured-image{
+    text-align: center;
+}
+
+.featured-image figure figcaption{
+    font-size: small;
+}
+
+.images{
+    width: 100%;
+    border-radius: 8px;
+}
+
+.biography-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.highlighted-text{
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.quotes-container{
+    text-align: center;
+    background-color: #ddd;
+    padding: 30px;
+    border-radius: 25px;
+    background-image: url(/About-Imagine-Dragons/img/purple-gradient.png);
+    background-size: cover;
+    color: #fff;
+}
+
+.quotes-container blockquote{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quotes-container p{
+    font-style: italic;
+}
+
+.curiosity-style p{
+    list-style-type: none;
+    background-color: #f1f1f1;
+    padding: 8px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.curiosities-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.img-bold{
+    margin-top: 25px;
+    border-top: 1px dashed #ddd;
+    font-weight: bold;
+    text-align: center;
+}
+
+.moreinfo-container{
+    border-top: 1px dashed #ddd;
+}
